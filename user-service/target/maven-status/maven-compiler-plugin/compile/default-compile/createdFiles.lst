@@ -1,0 +1,6 @@
+com\isra\userservice\controller\UserController.class
+com\isra\userservice\UserServiceImpl.class
+com\isra\userservice\UserService\UserService.class
+com\isra\userservice\repository\UserRepository.class
+com\isra\userservice\dto\User.class
+com\isra\userservice\UserServiceApplication.class
