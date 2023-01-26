@@ -1,0 +1,6 @@
+com\isra\mahasiswa\service\MahasiswaServiceApplication.class
+com\isra\mahasiswa\service\repository\MahasiswaRepository.class
+com\isra\mahasiswa\service\MahasiswaImpl.class
+com\isra\mahasiswa\service\controller\MahasiswaController.class
+com\isra\mahasiswa\service\userservice\MahasiswaService.class
+com\isra\mahasiswa\service\dto\Mahasiswa.class
