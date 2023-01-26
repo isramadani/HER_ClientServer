@@ -1,0 +1,8 @@
+com\isra\gaji\service\GajiServiceApplication.class
+com\isra\gaji\service\vo\ResponseTemplateVO.class
+com\isra\gaji\service\entity\Gaji.class
+com\isra\gaji\service\service\GajiService.class
+com\isra\gaji\service\controller\GajiController.class
+com\isra\gaji\service\repository\GajiRepository.class
+com\isra\gaji\service\vo\Karyawan.class
+com\isra\gaji\service\vo\Golongan.class
