@@ -1,0 +1,5 @@
+com\isra\golongan\service\entity\Golongan.class
+com\isra\golongan\service\GolonganServiceApplication.class
+com\isra\golongan\service\repository\GolonganRepository.class
+com\isra\golongan\service\controller\GolonganController.class
+com\isra\golongan\service\service\GolonganService.class
