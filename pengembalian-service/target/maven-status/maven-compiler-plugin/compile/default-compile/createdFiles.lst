@@ -1,0 +1,10 @@
+com\isra\pengembalian\VO\ResponseTemplateVO.class
+com\isra\pengembalian\controller\PengembalianController.class
+com\isra\pengembalian\service\PengembalianService.class
+com\isra\pengembalian\VO\Peminjaman.class
+com\isra\pengembalian\VO\ResponseTemplateVOPinjam.class
+com\isra\pengembalian\entity\Pengembalian.class
+com\isra\pengembalian\VO\Buku.class
+com\isra\pengembalian\repository\PengembalianRepository.class
+com\isra\pengembalian\VO\Anggota.class
+com\isra\pengembalian\PengembalianServiceApplication.class
