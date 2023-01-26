@@ -1,0 +1,8 @@
+com\isra\peminjaman\service\PeminjamanService.class
+com\isra\peminjaman\repository\PeminjamanRepository.class
+com\isra\peminjaman\VO\ResponseTemplateVO.class
+com\isra\peminjaman\entity\Peminjaman.class
+com\isra\peminjaman\PeminjamanServiceApplication.class
+com\isra\peminjaman\controller\PeminjamanController.class
+com\isra\peminjaman\VO\Anggota.class
+com\isra\peminjaman\VO\Buku.class
