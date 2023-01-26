@@ -1,0 +1,5 @@
+com\isra\buku\service\BukuService.class
+com\isra\buku\BukuServiceApplication.class
+com\isra\buku\controller\BukuController.class
+com\isra\buku\entity\Buku.class
+com\isra\buku\repository\BukuRepository.class
