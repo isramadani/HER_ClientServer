@@ -1,0 +1,5 @@
+com\isra\nasabah\entity\Nasabah.class
+com\isra\nasabah\service\NasabahService.class
+com\isra\nasabah\repository\NasabahRepository.class
+com\isra\nasabah\NasabahServiceApplication.class
+com\isra\nasabah\controller\NasabahController.class
