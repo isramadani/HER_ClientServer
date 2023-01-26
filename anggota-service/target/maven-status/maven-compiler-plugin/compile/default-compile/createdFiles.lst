@@ -1,0 +1,5 @@
+com\isra\anggota\entity\Anggota.class
+com\isra\anggota\service\AnggotaService.class
+com\isra\anggota\AnggotaServiceApplication.class
+com\isra\anggota\controller\AnggotaController.class
+com\isra\anggota\repository\AnggotaRepository.class
