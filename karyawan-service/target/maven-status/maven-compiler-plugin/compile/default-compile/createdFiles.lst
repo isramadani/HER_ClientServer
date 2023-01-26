@@ -1,0 +1,5 @@
+com\isra\karyawan\service\controller\KaryawanController.class
+com\isra\karyawan\service\service\KaryawanService.class
+com\isra\karyawan\service\entity\Karyawan.class
+com\isra\karyawan\service\KaryawanServiceApplication.class
+com\isra\karyawan\service\repository\KaryawanRepository.class
